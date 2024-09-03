@@ -1,0 +1,14 @@
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\XayDungLopStopWatch\bin\Debug\net8.0\XayDungLopStopWatch.exe
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\XayDungLopStopWatch\bin\Debug\net8.0\XayDungLopStopWatch.deps.json
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\XayDungLopStopWatch\bin\Debug\net8.0\XayDungLopStopWatch.runtimeconfig.json
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\XayDungLopStopWatch\bin\Debug\net8.0\XayDungLopStopWatch.dll
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\XayDungLopStopWatch\bin\Debug\net8.0\XayDungLopStopWatch.pdb
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\XayDungLopStopWatch\obj\Debug\net8.0\XayDungLopStopWatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\XayDungLopStopWatch\obj\Debug\net8.0\XayDungLopStopWatch.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\XayDungLopStopWatch\obj\Debug\net8.0\XayDungLopStopWatch.AssemblyInfo.cs
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\XayDungLopStopWatch\obj\Debug\net8.0\XayDungLopStopWatch.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\XayDungLopStopWatch\obj\Debug\net8.0\XayDungLopStopWatch.dll
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\XayDungLopStopWatch\obj\Debug\net8.0\refint\XayDungLopStopWatch.dll
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\XayDungLopStopWatch\obj\Debug\net8.0\XayDungLopStopWatch.pdb
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\XayDungLopStopWatch\obj\Debug\net8.0\XayDungLopStopWatch.genruntimeconfig.cache
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\XayDungLopStopWatch\obj\Debug\net8.0\ref\XayDungLopStopWatch.dll
